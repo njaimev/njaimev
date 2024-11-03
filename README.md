@@ -4,5 +4,9 @@ Hola!, soy Natalia y tengo un gran interés en aprender a programar. Me apasiona
 También me interesa mucho Python, meta que ya se encuentra en proceso.
 Me emociona profundizar en estos temas y adquirir los conocimientos necesarios para convertirme en una desarrolladora completa.
 
-
+<ul>Intereses:</ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
 
